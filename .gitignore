@@ -73,3 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/ClappingCircle/T_diffuse.uasset
+Content/ClappingCircle/T_height.uasset
+Content/ClappingCircle/T_normal.uasset
+Content/ClappingCircle/tex_Mat.uasset
